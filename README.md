@@ -1,0 +1,2 @@
+# AlgoritmaKisaSinavOdevi
+AlgoritmaAnaliziveTasarimiOdevi
